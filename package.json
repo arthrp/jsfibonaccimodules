@@ -7,7 +7,7 @@
     "start": "http-server -p 3010 ."
   },
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   },
   "author": "arthrp",
   "license": "MIT"
